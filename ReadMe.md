@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕I'm a programmer student.<br>📁I'm fullstack dev junior and gamedev.<br>👨‍💻I have some experience in Cyber ​​Security <br>and Ethical Hacking.<br>
+📕I'm a programmer student.<br>📁I'm fullstack dev and gamedev Junior .<br>👨‍💻I have some experience in Cyber ​​Security <br>and Ethical Hacking.<br>
 
 
 # 💻 Tech Stack:
