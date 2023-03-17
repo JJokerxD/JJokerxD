@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕I'm a programmer student.<br>📁I'm fullstack dev Junior,Bug Hunter(beginner)and gamedev.<br>👨‍💻I have some experience in Cyber ​​Security <br>and Ethical Hacking.<br>
+📕I'm a programmer student.<br>📁I'm fullstack dev Junior, Bug Hunter(beginner) and gamedev.<br>👨‍💻I have some experience in Cyber ​​Security <br>and Ethical Hacking.<br>
 📂I have knowledge in:<br>
 JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, Wordpress, Git, Docker, Linux, Windows, Figma, Arduino...
 
