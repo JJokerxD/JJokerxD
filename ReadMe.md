@@ -3,7 +3,7 @@
 📁I have knowledge in:<br>
 JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, Arduino...
 
-📂I love to know new things, work in groups and have new experiences.I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.<br>
+📂I love to know new things, work in groups and have new experiences.I also study computer science and I dedicate myself to becoming a software engineer,cybersecurity specialist and maybe start a software development company.<br>
 *I'm not in the job market yet*
 
 # 💻 Tech Stack:
