@@ -1,7 +1,7 @@
 # 💫 About Me:
 📕I'm a programmer student.<br>📁I'm fullstack dev and gamedev Junior .<br>👨‍💻I have some experience in Cyber ​​Security <br>and Ethical Hacking.<br>
 📂I have knowledge in:<br>
-JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, Wordpress, Git, Docker, Linux, MacOS, Windows, Figma, Arduino...
+JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Bootstrap, Wordpress, Git, Docker, Linux, Windows, Figma, Arduino...
 
 📂I love to know new things.I also study computer science and I dedicate myself to becoming a software engineer,cybersecurity specialist and maybe start a software development company.<br>
 *I'm not in the job market yet*
