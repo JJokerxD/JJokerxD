@@ -14,3 +14,5 @@ JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJokerxD&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/JJokerxD/JJokerxD/blob/output/github-contribution-grid-snake.svg)
