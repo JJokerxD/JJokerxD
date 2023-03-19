@@ -5,7 +5,7 @@ JavaScript, TypeScript, Node.js, React, Gatsby, Python, MongoDB, SQL, MySQL, API
 
 📂I love to know new things.I also study computer science and I dedicate myself to becoming a software engineer,cybersecurity specialist and maybe start a software development company.<br>
 *I'm not in the job market yet*
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JJokerxD&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
